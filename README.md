@@ -22,21 +22,18 @@ This project is a real-time human pose detection application using a webcam, bui
 1. Clone the repository:
    ```bash
    git clone https://github.com/AmirFaramarzpour/pose-detection.git
+2. Install the required libraries:
+   ```bash
+   pip install opencv-python mediapipe customtkinter requests pyttsx3 pillow
+3. Usage:
+   ```bash
+   python3 pose_detection.py
 
 
 
-Install the required libraries:
-pip install opencv-python mediapipe customtkinter requests pyttsx3 pillow
 
 
-Usage
-python pose_detection.py
 
-
-This project is licensed under the MIT License.
-Feel free to customize the README file according to your project's specifics! If there's anything else you need, just let me know.
-
-Acknowledgments
-
-MediaPipe by Google for providing the pose detection solution.
-CustomTkinter for the GUI framework.
+## This project is licensed under the MIT License.
+   ```bash
+   Feel free to customize the README file according to your project's specifics! If there's anything else you need, just let me know.
