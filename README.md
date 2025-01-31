@@ -21,7 +21,7 @@ This project is a real-time human pose detection application using a webcam, bui
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pose-detection.git
+   git clone https://github.com/AmirFaramarzpour/pose-detection.git
 
 
 
