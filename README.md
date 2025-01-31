@@ -28,12 +28,5 @@ This project is a real-time human pose detection application using a webcam, bui
 3. Usage:
    ```bash
    python3 pose_detection.py
-
-
-
-
-
-
 ## This project is licensed under the MIT License.
-   ```bash
-   Feel free to customize the README file according to your project's specifics! If there's anything else you need, just let me know.
+Feel free to customize the README file according to your project's specifics! If there's anything else you need, just let me know.
