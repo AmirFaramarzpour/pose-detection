@@ -22,11 +22,12 @@ This project is a real-time human pose detection application using a webcam, bui
 1. Clone the repository:
    ```bash
    git clone https://github.com/AmirFaramarzpour/pose-detection.git
+   cd pose-detection
 2. Install the required libraries:
    ```bash
    pip install opencv-python mediapipe customtkinter requests pyttsx3 pillow
 3. Usage:
    ```bash
-   python3 pose_detection.py
+   python3 main.py
 ## This project is licensed under the MIT License.
 
